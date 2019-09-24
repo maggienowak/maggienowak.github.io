@@ -13,10 +13,6 @@ h1 {
     color: black;
 }
 
-h2 {
-    font-size: 40px;
-}
-
 p {
     line-height: 1.6;
     font-size: 20px;
@@ -24,7 +20,7 @@ p {
 }
 
 ul {
-    background: grey;
+    background: white;
     text-align: center;
     padding: 10px;
 }
