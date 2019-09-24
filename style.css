@@ -1,0 +1,49 @@
+body {
+    background: rgb(255, 255, 255);
+}
+
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: white'
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+ul {
+    background: grey;
+    text-align: center;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+    margin: 30 px;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/*mouse over link */
+a:hover {
+    color: yellow;
+}
+
+div {
+    width: 70%;
+    margin: 0 auto;
+}
