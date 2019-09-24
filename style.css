@@ -3,25 +3,15 @@ body {
 }
 
 
-
-
 header {
-    background: url(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/198/smiling-face-with-smiling-eyes_1f60a.png);
     text-align: center;
-}
-
-img {
-    border: 5px solid white;
-    border-radius: 50%;
+    font-family: 'EB Garamond', serif;
 }
 
 h1 {
     font-size: 50px;
-    color: white'
-}
-
-h3 {
-    font-size: 40px;
+    font-family: 'EB Garamond', serif;
+    color: black;
 }
 
 p {
@@ -31,7 +21,7 @@ p {
 }
 
 ul {
-    background: grey;
+    background: white;
     text-align: center;
     padding: 10px;
 }
@@ -39,6 +29,16 @@ ul {
 li {
     display: inline;
     margin: 30 px;
+}
+
+/* link */
+a:link {
+    color: black;
+}
+
+/*mouse over link */
+a:hover {
+    color: yellow;
 }
 
 div {
