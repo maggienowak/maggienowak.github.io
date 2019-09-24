@@ -40,6 +40,7 @@ li {
 /* link */
 a:link {
     color: black;
+    font-family: 'EB Garamond', serif;
 }
 
 /*mouse over link */
