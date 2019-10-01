@@ -30,16 +30,14 @@ li {
     margin: 10px;
 }
 
-/* link */
-a:link {
-    color: black;
-    font-family: 'EB Garamond', serif;
-}
+a { color:red } /* Globally */
 
-/*mouse over link */
-a:hover {
-    color: yellow;
-}
+/* Each state */
+
+a:visited { text-decoration: none; color:red; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black 
 
 p {
     line-height: 1.6;
