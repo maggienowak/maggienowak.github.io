@@ -17,10 +17,17 @@ h1 {
 }
 
 h3 {
-	font-size: 40px;
+    font-size: 40px;
+    word-spacing: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom:50px;
     margin-top: 50px;
     font-family: 'Montserrat', sans-serif;
     color:lavender;
+    text-align: center;
 }
 
 ul {
