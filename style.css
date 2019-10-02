@@ -17,6 +17,7 @@ h1 {
 }
 
 h3 {
+    text-align: center;
     font-size: 40px;
     word-spacing: 100px;
     padding-left: 50px;
@@ -27,7 +28,6 @@ h3 {
     margin-top: 50px;
     font-family: 'Montserrat', sans-serif;
     color:lavender;
-    text-align: center;
 }
 
 ul {
@@ -47,6 +47,20 @@ li {
     margin: 10px;
 }
 
+p {
+    text-align: right;
+    line-height: 1.6;
+    font-size: 20px;
+    word-spacing: normal;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom:50px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
 a { color:black } /* Globally */
 
 /* Each state */
@@ -55,10 +69,3 @@ a:visited { text-decoration: none; color:black; }
 a:hover { text-decoration: none; color:lavender; }
 a:focus { text-decoration: none; color:plum; }
 a:hover, a:active { text-decoration: none; color:plum
-
-p {
-    line-height: 1.6;
-    font-size: 20px;
-    margin-top: 50px;
-    font-family: 'Montserrat', sans-serif;
-}
