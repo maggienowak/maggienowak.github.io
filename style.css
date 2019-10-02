@@ -1,5 +1,5 @@
 body {
-    background: url(https://drive.google.com/open?id=0B259NUPFFbRdNDlLSmlZSDZOM21iLV9fRUZZUGdqLWQ0alZn)
+    background: white
 }
 
 header {
@@ -34,8 +34,8 @@ a { color:black } /* Globally */
 /* Each state */
 
 a:visited { text-decoration: none; color:black; }
-a:hover { text-decoration: none; color:yellowgreen; }
-a:focus { text-decoration: none; color:yellow; }
+a:hover { text-decoration: none; color:papayawhip; }
+a:focus { text-decoration: none; color:lavender; }
 a:hover, a:active { text-decoration: none; color:black 
 
 p {
