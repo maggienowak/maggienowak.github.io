@@ -16,14 +16,6 @@ h1 {
     color: black;
 }
 
-h2 {
-    font-size: 50px;
-    margin-left: 20px;
-    margin-top: 30px;
-    font-weight: bold;
-    font-family: 'EB Garamond', serif;
-    color: black;
-}
 ul {
     text-align: center;
     padding-left: 20px;
@@ -44,7 +36,7 @@ a { color:black } /* Globally */
 a:visited { text-decoration: none; color:black; }
 a:hover { text-decoration: none; color:papayawhip; }
 a:focus { text-decoration: none; color:lavender; }
-a:hover, a:active { text-decoration: none; color:black 
+a:hover, a:active { text-decoration: none; color:plum
 
 p {
     line-height: 1.6;
