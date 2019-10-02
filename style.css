@@ -18,13 +18,14 @@ h1 {
 
 ul {
     text-align: center;
-    font-size: 50px;
-    padding-left: 100px;
-    padding-right: 100px;
-    word-spacing: 50px;
+    font-size: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    word-spacing: 100px;
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'EB Garamond', serif;
+    font-weight: bold;
 }
 
 li {
