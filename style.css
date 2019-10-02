@@ -18,10 +18,11 @@ h1 {
 
 ul {
     text-align: center;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    font-size: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 li {
@@ -34,8 +35,8 @@ a { color:black } /* Globally */
 /* Each state */
 
 a:visited { text-decoration: none; color:black; }
-a:hover { text-decoration: none; color:papayawhip; }
-a:focus { text-decoration: none; color:lavender; }
+a:hover { text-decoration: none; color:lavender; }
+a:focus { text-decoration: none; color:plum; }
 a:hover, a:active { text-decoration: none; color:plum
 
 p {
